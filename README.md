@@ -1,2 +1,2 @@
 # grdc-patch
-grdc patch file
+FreeBSD grdc(6) patch file
